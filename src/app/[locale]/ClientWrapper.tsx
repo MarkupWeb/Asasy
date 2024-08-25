@@ -1,4 +1,6 @@
 "use client";
+import "../../styles/index.css";
+
 
 import LocaleSwitcher from "@/Components/LocalSwitcher/local-switcher";
 // import Footer from "@/components/Common/Footer";
