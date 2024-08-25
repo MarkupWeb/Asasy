@@ -134,7 +134,7 @@ const Header = () => {
 
                   </span>
                   
-                  <div className=" ss:hidden lg:block cursor-pointer">
+                  <div className=" xss:hidden lg:block cursor-pointer">
                     <LocalSwitcher />
                   </div>
                 </div>
