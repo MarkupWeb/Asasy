@@ -15,7 +15,7 @@ export default function Home() {
   return (
     <main className="">
       <Hero />
-      <CategoryRender />
+      
       
     </main>
   );
