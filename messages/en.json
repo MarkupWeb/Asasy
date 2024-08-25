@@ -1,0 +1,13 @@
+{
+  "Menu": {
+    "home": "Home",
+    "features": "AboutUs",
+    "services": "OurService",
+    "partners": "Partners",
+    "news": "NewsUs",
+    "temework": "Temework",
+    "contact": "ContactUs"
+  }
+  
+
+}
